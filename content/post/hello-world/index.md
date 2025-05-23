@@ -13,7 +13,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Welcome to my youtube channel. This is my first post. 
 
-For visit my youtube channel click this link now: (https://www.youtube.com/@techtainmentbd/shorts/)
+For visit my youtube channel click this link now  [Youtube Channel] (https://www.youtube.com/@techtainmentbd/shorts/)
 
 If yoyu Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
