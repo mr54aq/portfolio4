@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://mr54aq.github.io/portfolio4"
 languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+title = "Md. Moshiur Rahman"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
