@@ -15,6 +15,6 @@ Welcome to my youtube channel. This is my first post.
 
 For visit my youtube channel click this link now  [Youtube Channel] (https://www.youtube.com/@techtainmentbd/shorts/)
 
-If yoyu Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/mr54aq)
+If yoyu Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/mr54aq/)
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
